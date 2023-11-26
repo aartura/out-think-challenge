@@ -1,5 +1,5 @@
 // Create a TypeScript-React function-component (as opposed to a class-based component)
-//  using React-hooks for any stateful behaviour/side-effects.
+// using React-hooks for any stateful behaviour/side-effects.
 // The component should have two properties: coundownSeconds:number
 // and an optional onComplete:() => void dispatch property.
 // These should be defined in an interface that  is also used in the component declaration.
@@ -17,7 +17,7 @@
 // The countdown should start the moment the component is mounted and stop at zero.
 // Ensure that appropriate clean-up measures are taken
 // if the component is unmounted before the countdown is complete.
-//  onComplete is expected to not be called in this case.
+// onComplete is expected to not be called in this case.
 
 import React, { useEffect, useRef, useState } from "react";
 
