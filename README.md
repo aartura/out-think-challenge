@@ -1,3 +1,5 @@
+There are three tasks to complete. Tou can find the task description and the solution on the corresponding file ( e.g. 1.tsx, etc. )
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
